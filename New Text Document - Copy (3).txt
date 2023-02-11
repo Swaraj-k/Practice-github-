@@ -1,0 +1,2 @@
+Git diff compare file version
+git diff --staged used for check changes after last commit
